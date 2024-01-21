@@ -1,6 +1,12 @@
 ### Hi there 👋
 - 🌱 I’m currently learning cybersecurity
 - ⚡ Fun fact: Grey is an intermediate color between black and white. It is a neutral or achromatic color, meaning literally that it is a color "without color." It is the color of a cloud-covered sky, of ash and of lead.
+
+Site: https://pharasik.github.io/
+
+Fork: https://github.com/pharasik/QuantumComputing
+
+Paper: https://physics.paperswithcode.com/paper/quintuple-a-python-5-qubit-quantum-computer
 <!--
 **pharasik/pharasik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
